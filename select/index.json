@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "守ってあげる",
+  "base_artist": "平松晶子",
+  "createdAt": "2026-03-04T02:17:34.180730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "守ってあげる",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/01_守ってあげる_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "守ってあげる",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": false,
+      "path": "select/02_守ってあげる_Hayashibara,_Megumi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "守ってあげる",
+      "artist": "Megumi Hayashibara",
+      "has_synced": false,
+      "path": "select/03_守ってあげる_Megumi_Hayashibara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "守ってあげる",
+      "artist": "平松晶子",
+      "has_synced": false,
+      "path": "select/pl_01_守ってあげる_平松晶子.txt"
+    }
+  ]
+}
